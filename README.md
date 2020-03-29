@@ -1,3 +1,3 @@
 # stepik_autotests_course
 stepik_autotests_course
-12
+Добавил несколько решений задач из 2 блока курса)
